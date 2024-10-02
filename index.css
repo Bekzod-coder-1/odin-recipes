@@ -6,27 +6,46 @@ h1{
     color: white;
     text-align: center;
     background-color: rgb(51, 159, 189);
-    
-    position: fixed;
-
-    top: 0;
-
 }
-.bild1{
-    display: block;
+p{
+    color: white;
+    font-size: 18pt;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+    padding-top: 30px;
+
+    text-decoration: none;
+    line-height: 1,5em;  
 }
-img{
+.container{
+    display: flex;
+}
+.item1{
     border-radius: 50px;
     margin: 10px;
     height: 500px;
     width: 500px;
-
 }
-div
-a{
+.item2{
     color: white;
+    font-size: 18pt;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+    padding-top: 30px;
+
+    text-decoration: none;
+    line-height: 1,5em;
 }
-p{
+.container2{
+    display: flex;
+}
+.item3{
+    border-radius: 50px;
+    margin: 10px;
+    height: 500px;
+    width: 500px;
+}
+.item4{
     
     color: white;
     font-size: 18pt;
